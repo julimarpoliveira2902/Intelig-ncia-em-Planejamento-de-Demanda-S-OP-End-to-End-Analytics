@@ -76,6 +76,8 @@ O Dashboard Executivo foi estruturado com foco em **usabilidade, hierarquia visu
 3. **Detalhamento Tático por SKU (Tabela Dinâmica):**
    * Ordenação estratégica por impacto de **BIAS**, permitindo a navegação rápida para mitigação de riscos de capital de giro.
 
+![Dashboard Executivo S&OP](dashboard_sop.jpg)
+
 ---
 
 ## ⚙️ Como Executar o Código
